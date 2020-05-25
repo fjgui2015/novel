@@ -17,9 +17,9 @@ package admin
 import (
 	"time"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/services"
-	"github.com/vckai/novel/app/utils"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/services"
+	"github.com/fjgui2015/novel/app/utils"
 )
 
 type AdminLogController struct {

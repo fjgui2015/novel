@@ -15,7 +15,7 @@
 package admin
 
 import (
-	"github.com/vckai/novel/app/services"
+	"github.com/fjgui2015/novel/app/services"
 )
 
 type FeedbackController struct {

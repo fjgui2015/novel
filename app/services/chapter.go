@@ -22,8 +22,8 @@ import (
 
 	"github.com/astaxie/beego/validation"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/utils/log"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/utils/log"
 )
 
 type Chapter struct{}

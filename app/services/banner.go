@@ -19,7 +19,7 @@ import (
 
 	"github.com/astaxie/beego/validation"
 
-	"github.com/vckai/novel/app/models"
+	"github.com/fjgui2015/novel/app/models"
 )
 
 const (

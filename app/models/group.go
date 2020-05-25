@@ -21,7 +21,7 @@ import (
 
 	"github.com/astaxie/beego/orm"
 
-	"github.com/vckai/novel/app/utils"
+	"github.com/fjgui2015/novel/app/utils"
 )
 
 // 管理员群组

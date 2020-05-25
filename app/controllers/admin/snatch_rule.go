@@ -25,12 +25,12 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/axgle/mahonia"
 
-	"github.com/vckai/novel/app/controllers"
-	xhttp "github.com/vckai/novel/app/librarys/net/http"
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/services"
-	"github.com/vckai/novel/app/services/snatchs"
-	"github.com/vckai/novel/app/utils/log"
+	"github.com/fjgui2015/novel/app/controllers"
+	xhttp "github.com/fjgui2015/novel/app/librarys/net/http"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/services"
+	"github.com/fjgui2015/novel/app/services/snatchs"
+	"github.com/fjgui2015/novel/app/utils/log"
 )
 
 type SnatchRuleController struct {

@@ -17,8 +17,8 @@ package home
 import (
 	"github.com/astaxie/beego"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/services"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/services"
 )
 
 type BookController struct {

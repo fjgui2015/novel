@@ -18,9 +18,9 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 
-	"github.com/vckai/novel/app/controllers/admin"
-	"github.com/vckai/novel/app/controllers/home"
-	"github.com/vckai/novel/app/controllers/m"
+	"github.com/fjgui2015/novel/app/controllers/admin"
+	"github.com/fjgui2015/novel/app/controllers/home"
+	"github.com/fjgui2015/novel/app/controllers/m"
 )
 
 func init() {

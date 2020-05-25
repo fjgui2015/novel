@@ -24,8 +24,8 @@ import (
 	"github.com/parnurzeal/gorequest"
 	"github.com/tidwall/gjson"
 
-	xhttp "github.com/vckai/novel/app/librarys/net/http"
-	"github.com/vckai/novel/app/utils/log"
+	xhttp "github.com/fjgui2015/novel/app/librarys/net/http"
+	"github.com/fjgui2015/novel/app/utils/log"
 )
 
 // 代理模式

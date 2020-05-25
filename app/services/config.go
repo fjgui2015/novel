@@ -18,8 +18,8 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/utils"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/utils"
 )
 
 type Config struct {

@@ -15,9 +15,9 @@
 package admin
 
 import (
-	"github.com/vckai/novel/app/controllers"
-	"github.com/vckai/novel/app/services"
-	"github.com/vckai/novel/app/utils/log"
+	"github.com/fjgui2015/novel/app/controllers"
+	"github.com/fjgui2015/novel/app/services"
+	"github.com/fjgui2015/novel/app/utils/log"
 )
 
 type MainController struct {

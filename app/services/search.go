@@ -17,7 +17,7 @@ package services
 import (
 	"errors"
 
-	"github.com/vckai/novel/app/models"
+	"github.com/fjgui2015/novel/app/models"
 )
 
 // 定义SearchService

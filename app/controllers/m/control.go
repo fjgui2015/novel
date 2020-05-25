@@ -15,8 +15,8 @@
 package m
 
 import (
-	"github.com/vckai/novel/app/controllers"
-	"github.com/vckai/novel/app/services"
+	"github.com/fjgui2015/novel/app/controllers"
+	"github.com/fjgui2015/novel/app/services"
 )
 
 // 前台首页基类

@@ -29,10 +29,10 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/astaxie/beego"
 	"github.com/axgle/mahonia"
-	"github.com/vckai/novel/app/utils/log"
+	"github.com/fjgui2015/novel/app/utils/log"
 
-	xhttp "github.com/vckai/novel/app/librarys/net/http"
-	"github.com/vckai/novel/app/models"
+	xhttp "github.com/fjgui2015/novel/app/librarys/net/http"
+	"github.com/fjgui2015/novel/app/models"
 )
 
 const (

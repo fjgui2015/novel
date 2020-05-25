@@ -19,8 +19,8 @@ import (
 
 	"github.com/astaxie/beego/validation"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/utils"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/utils"
 )
 
 type Role struct{}

@@ -21,8 +21,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/vckai/novel/app/models"
-	"github.com/vckai/novel/app/utils/log"
+	"github.com/fjgui2015/novel/app/models"
+	"github.com/fjgui2015/novel/app/utils/log"
 )
 
 var (
